@@ -3,9 +3,8 @@ interface ContinentFactory {
     fun createCarnivore() : Carnivore
 }
 
-interface Herbivore {
+interface Herbivore
 
-}
 
 interface Carnivore {
     fun eat(h: Herbivore)
