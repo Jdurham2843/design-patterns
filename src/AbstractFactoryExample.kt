@@ -1,3 +1,5 @@
+/* https://www.dofactory.com/net/abstract-factory-design-pattern */
+
 interface ContinentFactory {
     fun createHerbivore() : Herbivore
     fun createCarnivore() : Carnivore

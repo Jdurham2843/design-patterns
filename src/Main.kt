@@ -1,3 +1,3 @@
 fun main() {
-    run()
+    runBuilder()
 }
