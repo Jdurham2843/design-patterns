@@ -1,3 +1,5 @@
+package creational
+
 /* https://www.dofactory.com/net/builder-design-pattern */
 
 fun runBuilder() {
@@ -68,7 +70,7 @@ class Product {
    }
 
    fun show() {
-      System.out.println("\nProduct Parts: ")
+      System.out.println("\ncreational.Product Parts: ")
       parts.forEach {
          System.out.println(it)
       }

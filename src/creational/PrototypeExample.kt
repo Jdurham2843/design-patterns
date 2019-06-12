@@ -1,3 +1,5 @@
+package creational
+
 // https://www.dofactory.com/net/prototype-design-pattern
 
 fun runProto() {
