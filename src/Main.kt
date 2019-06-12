@@ -1,5 +1,5 @@
-import creational.runProto
+import structural.runAdapter
 
 fun main() {
-    runProto()
+    runAdapter()
 }
