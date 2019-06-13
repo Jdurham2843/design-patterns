@@ -1,5 +1,5 @@
-import structural.runAdapter
+import behavioral.runTemplateMethod
 
 fun main() {
-    runAdapter()
+    runTemplateMethod()
 }
