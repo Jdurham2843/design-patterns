@@ -1,5 +1,5 @@
-import behavioral.runTemplateMethod
+import structural.doProxy
 
 fun main() {
-    runTemplateMethod()
+    doProxy()
 }
