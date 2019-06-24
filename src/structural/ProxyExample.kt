@@ -1,6 +1,8 @@
 package structural
 
 /**
+ * https://java-design-patterns.com/patterns/proxy/
+ *
  *  Types of proxies:
  *  1. Remote Proxy - This will provide a local representative to an object in a different address space
  *  2. Virtual Proxy - Used to create expensive objects on demand
