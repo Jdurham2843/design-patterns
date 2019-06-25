@@ -1,5 +1,5 @@
-import structural.doProxy
+import structural.runBridge
 
 fun main() {
-    doProxy()
+    runBridge()
 }
