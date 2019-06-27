@@ -1,5 +1,5 @@
-import structural.runBridge
+import structural.runFlyweight
 
 fun main() {
-    runBridge()
+    runFlyweight()
 }
